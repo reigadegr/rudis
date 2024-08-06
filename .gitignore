@@ -10,3 +10,5 @@ target/
 *.pdb
 *.rdb
 *.aof
+Cargo.lock
+release/rudis-server.exe
